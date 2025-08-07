@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Yash</h1>
-<h3 align="center">A full-stack dev</h3>
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=yashxp1&label=Profile%20views&color=0e75b6&style=flat" alt="yashxp1" />
 </p>
@@ -36,9 +33,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yashxp1&show_icons=true&locale=en&layout=compact" alt="yashxp1" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashxp1&" alt="yashxp1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yashxp1&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashxp1" alt="GitHub Streak" />
 </p>
