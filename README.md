@@ -32,8 +32,3 @@
 
 ---
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yashxp1&show_icons=true&locale=en&layout=compact&theme=outrun" alt="Top Languages" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashxp1" alt="GitHub Streak" />
-</p>
