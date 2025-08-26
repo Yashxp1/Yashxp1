@@ -1,18 +1,5 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=yashxp1&label=Profile%20views&color=0e75b6&style=flat" alt="yashxp1" />
-</p>
+# ✉️ How to reach me **kyashraj991@gmail.com**
 
-<p align="left">
-  <a href="https://twitter.com/yashxp1" target="blank">
-    <img src="https://img.shields.io/twitter/follow/yashxp1?logo=twitter&style=for-the-badge" alt="yashxp1" />
-  </a>
-</p>
-
-- 🤝 I’m looking for help with **Full-Stack**
-
-- 📫 How to reach me **kyashraj991@gmail.com**
-
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
