@@ -1,3 +1,4 @@
 `✉️kyashraj991@gmail.com`
 --
-<img width="1024" height="434" alt="image" src="https://github.com/user-attachments/assets/29504739-60e4-494d-a5d8-4251086fc64b" />
+<img width="1536" height="663" alt="ChatGPT Image Feb 15, 2026, 01_04_35 PM" src="https://github.com/user-attachments/assets/b9691454-e1d9-41ac-8cf6-0933533dd856" />
+
